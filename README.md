@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ShoaibMirzax/ShoaibMirzax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![ShoaibMirza github httpsgithub comShoaibMirzax MuhammadShoaibMirza](https://github.com/ShoaibMirzax/ShoaibMirzax/assets/76097295/91310313-3e2e-4e7c-a09b-4f41c6d862ef)
 ![MuhammadShoaibMirza shoaibmirza httpswww linkedin cominshoaibmirzaa linkedin Shoaib Mirzaa](https://github.com/ShoaibMirzax/ShoaibMirzax/assets/76097295/af34e698-d8b2-490b-9724-24c0da432483)
 # Shoaib Mirza
 
@@ -13,7 +10,7 @@ I'm Shoaib Mirza, a passionate Full Stack Web Developer with a strong background
 ## Contact Information 💬
 
 - Email: shoaibmirzacs@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shoaibmirzaa/)
+- Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/shoaibmirzaa/)
 - GitHub: [GitHub Profile](https://github.com/ShoaibMirzax)
 
 ## Projects
@@ -56,17 +53,3 @@ Outside of coding, I enjoy hiking, photography, and exploring new cuisines.
 - **Drawing Enthusiast**: I love to spend my free time sketching and creating digital art. 😄
 - **Lifelong Learner**: I'm constantly exploring new topics and enjoy learning about different cultures, languages, and technology trends.
 - **Outdoor Adventurer**: I enjoy hiking and exploring the great outdoors whenever I get the chance.
-
-
-## How to Reach Me
-
-Feel free to reach out to me through email or connect with me on LinkedIn for collaboration and networking opportunities. 💬
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Dev.
-- 🌱 I’m currently learning MERN Stack
-- 😄 Pronouns: He/His
--->
-
-When your work speaks for itself, don't interrupt. - Henry J. Kaiser
