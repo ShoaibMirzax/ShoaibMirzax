@@ -13,16 +13,6 @@ I'm Shoaib Mirza, a passionate Full Stack Web Developer with a strong background
 - Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/shoaibmirzaa/)
 - GitHub: [GitHub Profile](https://github.com/ShoaibMirzax)
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. [E-commerce Website](Link to Project 1): Developed a fully functional e-commerce website with user authentication, product listings, and payment processing.
-
-2. [Computer Lab FYP Project](Link to Project 2): Built a task management application using React and Node.js, allowing users to create, update, and delete tasks.
-
-3. [Portfolio Website](Link to Project 3): Designed and developed my personal portfolio website to showcase my projects and skills.
-
 ## Skills
 
 My key skills include:
@@ -34,10 +24,6 @@ My key skills include:
 - Version Control: Git
 - Web Development Tools: Visual Studio Code, Sublime Text
 - Deployment: Heroku, Netlify, AWS
-
-## Contributions
-
-I've actively contributed to various open-source projects, including bug fixes and feature enhancements.
 
 ## Education
 
