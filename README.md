@@ -3,8 +3,6 @@
 ![MuhammadShoaibMirza shoaibmirza httpswww linkedin cominshoaibmirzaa linkedin Shoaib Mirzaa](https://github.com/ShoaibMirzax/ShoaibMirzax/assets/76097295/af34e698-d8b2-490b-9724-24c0da432483)
 # Shoaib Mirza
 
-## About Me
-
 I'm Shoaib Mirza, a passionate Full Stack Web Developer with a strong background in creating and maintaining web applications. I enjoy solving complex problems and turning ideas into functional and user-friendly web solutions.
 
 ## Contact Information 💬
@@ -33,9 +31,3 @@ My key skills include:
 ## Interests
 
 Outside of coding, I enjoy hiking, photography, and exploring new cuisines.
-
-## Fun Facts
-
-- **Drawing Enthusiast**: I love to spend my free time sketching and creating digital art. 😄
-- **Lifelong Learner**: I'm constantly exploring new topics and enjoy learning about different cultures, languages, and technology trends.
-- **Outdoor Adventurer**: I enjoy hiking and exploring the great outdoors whenever I get the chance.
