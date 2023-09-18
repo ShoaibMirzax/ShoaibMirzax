@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![MuhammadShoaibMirza shoaibmirza httpswww linkedin cominshoaibmirzaa linkedin Shoaib Mirzaa](https://github.com/ShoaibMirzax/ShoaibMirzax/assets/76097295/af34e698-d8b2-490b-9724-24c0da432483)
-# Shoaib Mirza
 
 I'm Shoaib Mirza, a passionate Full Stack Web Developer with a strong background in creating and maintaining web applications. I enjoy solving complex problems and turning ideas into functional and user-friendly web solutions.
 
